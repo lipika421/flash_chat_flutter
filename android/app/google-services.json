@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146034242323",
+    "firebase_url": "https://flash-chat-866e2.firebaseio.com",
+    "project_id": "flash-chat-866e2",
+    "storage_bucket": "flash-chat-866e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146034242323:android:b36ee7d8690d3189e6a0e6",
+        "android_client_info": {
+          "package_name": "co.lipika.my_flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146034242323-9ramd8bvo9g504tjg6jjsk5b3g4ns0fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNEpTQIis8bkBCt2eP5NxowbrKz3GsyX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146034242323-9ramd8bvo9g504tjg6jjsk5b3g4ns0fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
